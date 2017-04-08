@@ -1,4 +1,4 @@
-package helperservices.my.sngv.helperservices;
+package helperservices.my.sngv.Sms;
 
 import org.junit.Test;
 

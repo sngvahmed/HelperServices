@@ -1,4 +1,4 @@
-package helperservices.my.sngv.helperservices;
+package helperservices.my.sngv.Sms;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
